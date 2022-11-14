@@ -13,7 +13,7 @@ if (nivel === 'normal') { // 1500 Milissegundos
 } else if (nivel === 'dificil') { // 1000 Milissegundos
   criaMoscaTempo = 1000
 
-} else if (nivel === 'impossivel') { // 750 Milissegundos
+} else if (nivel === 'impossivel') { // 400 Milissegundos
   criaMoscaTempo = 400
 }
 
