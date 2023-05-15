@@ -1,7 +1,7 @@
 var altura = 0
 var largura = 0
 var vidas = 1
-var tempo = 60
+var tempo = 20
 var criaMoscaTempo = 1500
 
 var nivel = window.location.search
